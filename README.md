@@ -22,3 +22,8 @@ The AFuscator compiles C and C++ Programs into A's (And only A's).
 * ![](https://python.makes-me-horny.wtf/83ddfb.png)
 * ![](https://python.makes-me-horny.wtf/a148ba.png)
 
+# Featuring BOTH C Languages (C, C++)
+Set the Language using the `-x` Parameter (`-xc, -xc++, -xcpp, -xcxx`)
+```
+python3 afuscate.py -xcpp ./sample.cpp
+```
