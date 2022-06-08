@@ -11,14 +11,16 @@
          
  A/fuscator
 
- https://github.com/ZeroTwo36/AFuscator/ :: the single instruction C compiler
+ https://github.com/ZeroTwo36/AFuscator/ :: the single instruction C/C++ Translator
 ```
 
 ## Overview
 
-The AFuscator compiles C and C++ Programs into A's (And only A's).
+The AFuscator translates C and C++ Programs into A's (And only A's).  
+No, it isn't a Compiler, it transforms C into C and C++ into C++.
 
-* Inspired by [This Post](https://www.reddit.com/r/ProgrammerHumor/comments/a52p9v/e/) and [This Project](https://github.com/xoreaxeaxeax/movfuscator)  
+
+* Inspired by [This Post](https://www.reddit.com/r/ProgrammerHumor/comments/a52p9v/e/)  
 * ![](https://python.makes-me-horny.wtf/83ddfb.png)
 * ![](https://python.makes-me-horny.wtf/a148ba.png)
 
